@@ -1,3 +1,4 @@
+// App.jsx
 import React from "react";
 import Portfolio from "./pp.jsx";
 
@@ -6,3 +7,5 @@ function App() {
 }
 
 export default App;
+
+
